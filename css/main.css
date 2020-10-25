@@ -1313,6 +1313,7 @@ header .top-bar {
 	-webkit-transform: translateY(-2.1rem);
 	-ms-transform: translateY(-2.1rem);
 	transform: translateY(-2.1rem);
+	padding-top:100px;
 }
 .intro-content h1 {
 	color: #FFFFFF;
@@ -1363,7 +1364,7 @@ header .top-bar {
 	color: rgba(255, 255, 255, 0.3);
 }
 .go-to-about {
-	margin: 200px auto 0 auto;
+	margin: 100px auto 0 auto;
 	display: flex;
 	color: #FFFFFF !important;
 	border: 2px solid rgb(255, 255, 255);
